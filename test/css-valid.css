@@ -1,0 +1,13 @@
+.selector-x {
+    width: 10%;
+}
+
+.selector-y {
+    width: 20%;
+}
+
+@media (min-width >= 60em) {
+    .selector {
+        transform: translate(1, 1) scale(3);
+    }
+}
