@@ -1,9 +1,14 @@
 .selector-x {
     width: 10%;
+
+    &-active {
+        color: red;
+    }
 }
 
 .selector-y {
     width: 20%;
+    opacity: 0.1;
 }
 
 @media (min-width >= 60em) {
