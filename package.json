@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-hostelworld",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The Hostelworld shareable config for stylelint",
   "main": "index.js",
   "files": [

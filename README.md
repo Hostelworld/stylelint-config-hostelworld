@@ -1,11 +1,8 @@
 # stylelint-config-hostelworld
 
-[travis-image]: https://img.shields.io/travis/Hostelworld/stylelint-config-hostelworld/master.svg
-[travis-url]: https://travis-ci.org/Hostelworld/stylelint-config-hostelworld
-[npm-image]: https://img.shields.io/npm/v/stylelint-config-hostelworld.svg
-[npm-url]: https://npmjs.org/package/stylelint-config-hostelworld
-[downloads-image]: https://img.shields.io/npm/dm/stylelint-config-hostelworld.svg
-[downloads-url]: https://npmjs.org/package/stylelint-config-hostelworld
+[![Build Status](https://api.travis-ci.org/Hostelworld/stylelint-config-hostelworld.svg?branch=master)](https://travis-ci.org/Hostelworld/stylelint-config-hostelworld)
+[![npm](https://img.shields.io/npm/v/stylelint-config-hostelworld.svg)](https://www.npmjs.com/package/stylelint-config-hostelworld)
+[![npm](https://img.shields.io/npm/dt/stylelint-config-hostelworld.svg)](https://www.npmjs.com/package/stylelint-config-hostelworld)
 
 > The Hostelworld shareable config for [stylelint](https://stylelint.io/)
 
